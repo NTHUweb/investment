@@ -1,7 +1,7 @@
 # ----
 # Site
 
-title: NTHUweb
+title: 投資學第九組
 url: "https://nthuweb.github.io"
 baseurl:
 google_analytics_key:
@@ -9,13 +9,13 @@ show_full_navigation: true
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Product documentation template for Jekyll.
+description: 2020年投資學第九組成果
 author:
   name:
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: Edition Template
+  name: 
   links:
     - 
 
