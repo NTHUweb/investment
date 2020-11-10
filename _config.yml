@@ -2,7 +2,7 @@
 # Site
 
 title: NTHUweb
-url: "https://nthuweb.github.io/investment/"
+url: "https://nthuweb.github.io"
 baseurl:
 google_analytics_key:
 show_full_navigation: true
@@ -17,7 +17,7 @@ author:
 social:
   name: Edition Template
   links:
-    - https://github.com/CloudCannon/edition-jekyll-template
+    - 
 
 # -----
 # Build
