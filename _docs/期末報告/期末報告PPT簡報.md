@@ -3,4 +3,4 @@ title: 期末報告PPT簡報
 category: 期末報告
 order: 1
 ---
-<iframe src="https://365nthu-my.sharepoint.com/personal/107072207_office365_nthu_edu_tw/_layouts/15/Doc.aspx?sourcedoc={e66e576a-61d5-4f5c-bccc-c585dcf963f0}&amp;action=embedview&amp;wdAr=1.7777777777777777" width= "1186px" height= "691px" frameborder="0">這是清華大學投資學第九組簡報。</iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQlA6pL8D5NKXhZfH4eBBLw8Zqs2Mxo2PgUiGYBJoufgbb3VJ13-1ohO6mMf_TyFg/embed?start=true&loop=true&delayms=2000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
